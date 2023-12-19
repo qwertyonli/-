@@ -1,0 +1,1 @@
+REG ADD HKCU\Control Panel\Mouse\ButtonSwap /v SwapMouseButtons /t REG_DWORD /d 1
